@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A2858E14-C0AB-46FF-82DD-03D16ACD86AA}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleUI/Business/Concrete/ProductManager.cs">
+    <Files>
+      <File FileName="ConsoleUI/Program.cs" />
+      <File FileName="ConsoleUI/Models/Product.cs" />
+      <File FileName="ConsoleUI/Business/Abstract/IProductService.cs" />
+      <File FileName="ConsoleUI/Business/Concrete/ProductManager.cs" Line="14" Column="11" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
